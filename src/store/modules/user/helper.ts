@@ -16,8 +16,8 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://avatars.githubusercontent.com/u/5511676?v=4',
-      name: 'goforit',
-      description: 'Star on <a href="https://github.com/Chanzhaoyu/chatgpt-bot" class="text-blue-500" target="_blank" >ChanZhaoYu</a>',
+      name: '游客',
+      description: '基于ChatGPT服务',
     },
   }
 }
