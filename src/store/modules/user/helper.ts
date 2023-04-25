@@ -15,7 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://avatars.githubusercontent.com/u/5511676?s=400&u=2a46b4987e94d65116b29a53d4d77402731a8b6c&v=4',
+      avatar: 'http://linjunkai.com/wp-content/uploads/2023/04/ZhijueIcon.jpg',
       name: '游客',
       description: '基于ChatGPT服务',
     },
